@@ -1,0 +1,15 @@
+C:\Users\coding\C# stack\game-developer-1\bin\Debug\net6.0\game-developer-1.exe
+C:\Users\coding\C# stack\game-developer-1\bin\Debug\net6.0\game-developer-1.deps.json
+C:\Users\coding\C# stack\game-developer-1\bin\Debug\net6.0\game-developer-1.runtimeconfig.json
+C:\Users\coding\C# stack\game-developer-1\bin\Debug\net6.0\game-developer-1.dll
+C:\Users\coding\C# stack\game-developer-1\bin\Debug\net6.0\game-developer-1.pdb
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.csproj.AssemblyReference.cache
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.AssemblyInfoInputs.cache
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.AssemblyInfo.cs
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.csproj.CoreCompileInputs.cache
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.dll
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\refint\game-developer-1.dll
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.pdb
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\game-developer-1.genruntimeconfig.cache
+C:\Users\coding\C# stack\game-developer-1\obj\Debug\net6.0\ref\game-developer-1.dll
